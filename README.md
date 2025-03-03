@@ -26,7 +26,7 @@ Alternatively, you can use the command `Ctrl + Shift + P` and select **Python: S
 The code captures the screen in real-time, saves the recorded video, and displays a live preview. The recording stops when the user presses the 'q' key.
 
 ### Key Parameters:
-- **Output File**: The recorded video will be saved as `Recording.avi`. You can change the file name by modifying the `filename` variable.
+- **Output File**: The recorded video will be saved as `Recording.mp4`. You can change the file name by modifying the `filename` variable.
 - **Codec**: The video will be encoded in MP4 format using `mp4v` codec.
 - **FPS**: The default frames per second is set to 30.0, but you can change it as needed.
 - **Resolution**: The video will be recorded at 1920x1080 resolution.
