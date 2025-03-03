@@ -44,7 +44,7 @@ The code captures the screen in real-time, saves the recorded video, and display
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is free to use and modify for personal or internal purposes. If you use or modify this work, you must provide proper attribution. Redistribution is **not allowed** without permission.
 
 ## Acknowledgments
 
