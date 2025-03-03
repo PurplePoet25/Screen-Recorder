@@ -1,6 +1,6 @@
 # Screen Recorder
 
-This Python script records your screen and saves it as a video file. It uses the OpenCV library for video writing and pyautogui for taking screenshots. The script also provides a live preview of the recording.
+This Python script records your screen and saves it as a video file. It uses the OpenCV library for video writing and PyAutoGUI for taking screenshots. The script also provides a live preview of the recording.
 
 ## Requirements
 
